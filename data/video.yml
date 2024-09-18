@@ -1,0 +1,9 @@
+---
+enable: true
+comment1: Video embeds
+comment2: that seemlessly fit into your site
+buttonName: Available on
+button1text: Apple Store
+button2text: Google Play
+image: images/video/video.png
+video: https://www.youtube.com/watch?v=dQw4w9WgXcQ

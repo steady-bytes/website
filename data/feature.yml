@@ -1,0 +1,29 @@
+---
+enable: true
+features:
+  - name: feature1
+    position: right
+    title: Feature 1
+    image: images/feature/feature-illustration-one.svg
+    paragraphs:
+      - text: >
+          You can add as many features as you wish and can have them display the image on the right or left.
+      - text: >
+          You can have multiple paragraphs per feature and even add buttons like the one below.
+    button:
+      enabled: true
+      text: Keep Reading
+      link: "#feature2"
+  - name: feature2
+    position: left
+    title: Feature 2
+    image: images/feature/feature-illustration-two.svg
+    paragraphs:
+      - text: >
+          You can add checklist item lists to these as well.
+      - text: >
+          Example list:
+    checkItems:
+      - text: List item 1
+      - text: List item 2
+      - text: List item 3

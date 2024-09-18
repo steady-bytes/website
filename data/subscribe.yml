@@ -1,0 +1,8 @@
+---
+enable: true
+title: Subscribe for updates
+subTitle: Be sure to add a listmonk URL and list UUID for this page to properly work.
+agreementText: By signing up I am giving permission to email me at this address.
+# Designed for use with listmonk: https://listmonk.app/
+submitURL: ""
+listUUID: ""

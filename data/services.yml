@@ -1,0 +1,17 @@
+#  icons can be found on https://themify.me/themify-icons
+---
+enable: true
+title: Display icon cards for quick info
+services:
+  - icon: ti-flag
+    title: Icons
+    description: The icon element is the place to show quick bits of info with a corresponding icon.
+
+  - icon: ti-comment
+    title: Note
+    description: These could be quick notes or services your business offers.
+
+  - icon: ti-direction-alt
+    title: Options
+    description: Really you can do whatever you'd like with it.
+

@@ -1,0 +1,72 @@
+# MAIN base
+baseURL = "https://steady-bytes.io/"
+languageCode = "en-us"
+title = "Steady Bytes"
+theme = "steady-bytes"
+
+# Navigation Bar
+[[menu.main]]
+    name = "Home"
+    url = "#hero"
+    weight = 1
+[[menu.main]]
+    name = "Features"
+    url = "#feature"
+    weight = 2
+[[menu.main]]
+    name = "FAQ"
+    url = "#faq"
+    weight = 3
+[[menu.main]]
+    name = "Blog"
+    url = "#blog"
+    weight = 4
+
+# Footer Sitemap
+[[menu.sitemap]]
+    name = "Home"
+    url = "#"
+    weight = 1
+[[menu.sitemap]]
+    name = "Blog"
+    url = "/blog"
+    weight = 2
+[[menu.sitemap]]
+    name = "Privacy Policy"
+    url = "/privacy"
+    weight = 3
+[[menu.sitemap]]
+    name = "Contact"
+    url = "/contact"
+    weight = 4
+
+# Footer Contact Info
+[params.info]
+enableAddress = false
+address = ""
+enableEmail = true
+email = "hello@steady-bytes.io"
+enablePhone = false
+phone = ""
+
+# Footer Social
+[params.social]
+enableFacebook = false
+facebook = "#"
+enableTwitter = false
+twitter = "#"
+enableGithub = true
+github = "https://github.com/steady-bytes"
+
+[params]
+
+# Header
+logo = "images/logo.png"
+
+# Footer
+footerTitle = "Keep up to date"
+copyright1 = "All rights reserved"
+copyright2 = "Copyright ©  <a href=\"https://steady-bytes.io/\" target=\"_blank\">Steady Bytes </a> {year}"
+
+# Contact
+email = "hello@steady-bytes.io"

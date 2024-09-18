@@ -1,0 +1,34 @@
+---
+enable: true
+title: Frequently asked questions
+description: >
+  An FAQ element with the ability to add buttons alongside text answers.
+faqItem:
+  - question: What is a dog?
+    paragraphs:
+      - Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
+      - Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
+    dataTarget: One
+    show: show
+    buttons:
+      - text: Email button
+        link: mailto:hello@example.com
+      - text: Link button
+        link: https://github.com/steady-bytes/theme
+
+  - question: What is a cat?
+    paragraphs:
+      - Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
+      - Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
+    dataTarget: Two
+    show:
+
+  - question: What is a horse?
+    paragraphs:
+      - Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
+      - Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
+    dataTarget: Three
+    show:
+    buttons:
+      - text: Another link
+        link: https://github.com/steady-bytes/theme

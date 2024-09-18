@@ -1,0 +1,36 @@
+---
+enable: true
+title: Screenshots of our App
+description: >
+  A carousel element to rotate images or screenshots of an application.
+images:
+  - url: images/screenshots/slider1.png
+    text: >
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+  - url: images/screenshots/slider2.png
+    text: >
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+  - url: images/screenshots/slider3.png
+    text: >
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+  - url: images/screenshots/slider4.png
+    text: >
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+  - url: images/screenshots/slider5.png
+    text: >
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+  - url: images/screenshots/slider1.png
+    text: >
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+  - url: images/screenshots/slider2.png
+    text: >
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+  - url: images/screenshots/slider3.png
+    text: >
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+  - url: images/screenshots/slider4.png
+    text: >
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+  - url: images/screenshots/slider5.png
+    text: >
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit.

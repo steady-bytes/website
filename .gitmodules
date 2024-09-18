@@ -1,0 +1,3 @@
+[submodule "themes/steady-bytes"]
+	path = themes/steady-bytes
+	url = https://github.com/steady-bytes/theme.git
