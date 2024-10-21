@@ -1,29 +1,35 @@
 ---
 enable: true
+title: A few things we are currently doing
 features:
-  - name: feature1
+  - name: Home-cloud 
     position: right
-    title: Feature 1
-    image: images/feature/feature-illustration-one.svg
+    title: Home Cloud
+    image: 
+      src: https://home-cloud.io/images/hero/hero-image.png
     paragraphs:
       - text: >
-          You can add as many features as you wish and can have them display the image on the right or left.
+          A consumer device designed to get the average person to self host their own cloud.
       - text: >
-          You can have multiple paragraphs per feature and even add buttons like the one below.
+          Renting the cloud can be expensive. But hosting your own can be overwhelming. Home-cloud removes the barrier
+          for a consumer to host their own cloud.
     button:
       enabled: true
-      text: Keep Reading
-      link: "#feature2"
-  - name: feature2
+      text: Learn More 
+      link: https://home-cloud.io/
+
+  - name: Draft 
     position: left
-    title: Feature 2
-    image: images/feature/feature-illustration-two.svg
+    title: Draft 
+    image: 
+      src: "" 
     paragraphs:
       - text: >
-          You can add checklist item lists to these as well.
-      - text: >
-          Example list:
-    checkItems:
-      - text: List item 1
-      - text: List item 2
-      - text: List item 3
+          An opiniated, batteries included framework for building realtime distributed systems
+      - text: >      
+          A solid battle tested foundation used to build all kinds of systems. If your considering a simple way
+          to start building Event Driven, or Service Oriented Systems Draft is worth checking out.
+    button:
+      enabled: true
+      text: Learn More 
+      link: https://github.com/steady-bytes/draft/

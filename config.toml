@@ -10,17 +10,21 @@ theme = "steady-bytes"
     url = "#hero"
     weight = 1
 [[menu.main]]
+    name = "Services"
+    url = "#services"
+    weight = 2
+[[menu.main]]
     name = "Features"
     url = "#feature"
-    weight = 2
+    weight = 3
 [[menu.main]]
     name = "FAQ"
     url = "#faq"
-    weight = 3
+    weight = 4
 [[menu.main]]
     name = "Blog"
     url = "/blog"
-    weight = 4
+    weight = 5
 
 # Footer Sitemap
 [[menu.sitemap]]

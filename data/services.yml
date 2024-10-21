@@ -1,17 +1,32 @@
 #  icons can be found on https://themify.me/themify-icons
 ---
 enable: true
-title: Display icon cards for quick info
+title: What we do
 services:
-  - icon: ti-flag
-    title: Icons
-    description: The icon element is the place to show quick bits of info with a corresponding icon.
+  - icon: 
+    title: Micro Service Architecture
+    description: We have been building service oriented systems for a while now.
+                 We can help your team convert a monolith to a micro-services architecture
 
-  - icon: ti-comment
-    title: Note
-    description: These could be quick notes or services your business offers.
+  - icon: 
+    title: Event Driven Architecture
+    description: Realtime is at our core. Recording events on a timeline about everything related to your software
+                 seems to always eligten our customers 
 
-  - icon: ti-direction-alt
-    title: Options
-    description: Really you can do whatever you'd like with it.
+  - icon: 
+    title: Full-Stack Development
+    description: Front to back we can help move your idea forward.
+                 We have a battle tested process to get your idea in the customers hands quickly
+
+  - icon: 
+    title: Mobile Development
+    description: React Native is our choosen tool and when we need to go low level we just do
+
+  - icon: 
+    title: Webapp, and general web development
+    description: Whatever your idea we can bring it to market. Sometimes a simple static website will suffice
+
+  - icon: 
+    title: Cloud Native Infrastructure
+    description: AWS, GCP, Azure, and On Premise. Kubernetes is our default but we can handle any deployment
 

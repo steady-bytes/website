@@ -1,9 +1,7 @@
 ---
 enable: true
-title: Example Site
-caption: Welcome to
-description: An example site of the theme used by Steady Bytes. Look around and see what this theme can do. Modified from the original Apsho theme by Static Mania.
-buttonName: Available on
-button1text: Apple Store
-button2text: Google Play
-image: images/hero/hero-image.png
+caption:  
+title: Software for  a new era
+description: The future of the internet is realtime, secure, and distributed. We build products that embody this philsophy.
+image: ""
+alt: ""
