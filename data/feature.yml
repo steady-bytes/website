@@ -1,35 +1,34 @@
 ---
 enable: true
-title: A few things we are currently doing
+title: Our Projects
 features:
-  - name: Home-cloud 
+  - name: Home-cloud
     position: right
     title: Home Cloud
-    image: 
-      src: images/feature/feature-illustration-one.png
+    image:
+      src: images/feature/home-cloud.png
     paragraphs:
       - text: >
-          A consumer device designed to get the average person to self host their own cloud.
+          A self-hostable, consumer platform designed to help people reclaim security and privacy over their digital lives.
       - text: >
-          Renting the cloud can be expensive. But hosting your own can be overwhelming. Home-cloud removes the barrier
-          for a consumer to host their own cloud.
+          Home Cloud solves the complexity problem of hosting your own services by packaging all you need into one device that is simple and intuitive to use.
     button:
       enabled: true
-      text: Learn More 
+      text: Learn More
       link: https://home-cloud.io/
 
-  - name: Draft 
+  - name: Draft
     position: left
-    title: Draft 
-    image: 
-      src: images/feature/feature-illustration-two.png
+    title: Draft
+    image:
+      src: images/feature/draft.png
     paragraphs:
       - text: >
-          An opiniated, batteries included framework for building realtime distributed systems
-      - text: >      
-          A solid battle tested foundation used to build all kinds of systems. If your considering a simple way
-          to start building Event Driven, or Service Oriented Systems Draft is worth checking out.
+          An all-in-one toolkit for building realtime, distributed systems.
+      - text: >
+          Draft is a solid, battle-tested foundation used to build all kinds of systems.
+          It is built as a "startup in a box" framework which can scale from the smallest web app all the way up to the largest multi-tenant distributed cloud.
     button:
       enabled: true
-      text: Learn More 
+      text: Learn More
       link: https://github.com/steady-bytes/draft/
