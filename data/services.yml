@@ -3,30 +3,39 @@
 enable: true
 title: What we do
 services:
-  - icon: 
-    title: Micro Service Architecture
-    description: We have been building service oriented systems for a while now.
-                 We can help your team convert a monolith to a micro-services architecture
+  - icon:
+    title: Micro-service Architecture
+    description: |
+      We have over a decade of experience building scalable, service-oriented systems.
+      We can help your team convert a monolith to a service-oriented architecture or improve existing systems.
 
-  - icon: 
-    title: Event Driven Architecture
-    description: Realtime is at our core. Recording events on a timeline about everything related to your software
-                 seems to always eligten our customers 
+  - icon:
+    title: Event-driven Architecture
+    description: |
+      We've built multiple high-throughput, production deployed event systems from scratch.
+      We can transition unreliable, synchronous systems to fast, reliable event-driven designs.
 
-  - icon: 
-    title: Full-Stack Development
-    description: Front to back we can help move your idea forward.
-                 We have a battle tested process to get your idea in the customers hands quickly
+  - icon:
+    title: Distributed System Design
+    description: |
+      Distributed systems power every product we've built. We specialize in creating
+      excellent customer and developer experiences that are scalable and fault tolerant.
 
-  - icon: 
-    title: Mobile Development
-    description: React Native is our choosen tool and when we need to go low level we just do
+  - icon:
+    title: Full-stack Development
+    description: |
+      Front to back we can help move your idea forward. We have a battle tested process
+      to get your idea in the customers hands quickly across the entire software stack.
 
-  - icon: 
-    title: Webapp, and general web development
-    description: Whatever your idea we can bring it to market. Sometimes a simple static website will suffice
 
-  - icon: 
+  - icon:
+    title: Web applications and general web development
+    description: |
+      Whatever your idea we can bring it to market. Sometimes simple is better. We can
+      build static websites, simple web apps, and straight-foward APIs.
+
+  - icon:
     title: Cloud Native Infrastructure
-    description: AWS, GCP, Azure, and On Premise. Kubernetes is our default but we can handle any deployment
-
+    description: |
+      We've built production systems on all major public clouds (AWS, GCP, Azure) as well as on-prem.
+      We specialize in Kubernetes orchestration but are confortable with any deployment environment.
