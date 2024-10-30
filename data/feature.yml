@@ -6,7 +6,7 @@ features:
     position: right
     title: Home Cloud
     image: 
-      src: https://home-cloud.io/images/hero/hero-image.png
+      src: images/feature/feature-illustration-one.png
     paragraphs:
       - text: >
           A consumer device designed to get the average person to self host their own cloud.
@@ -22,7 +22,7 @@ features:
     position: left
     title: Draft 
     image: 
-      src: "" 
+      src: images/feature/feature-illustration-two.png
     paragraphs:
       - text: >
           An opiniated, batteries included framework for building realtime distributed systems

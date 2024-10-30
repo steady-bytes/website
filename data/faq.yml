@@ -1,34 +1,25 @@
 ---
 enable: true
-title: Frequently asked questions
+title: Get To Know Us 
 description: >
-  An FAQ element with the ability to add buttons alongside text answers.
+  We're not just another software company - we're a collaborative crew of innovators who thrive on solving complex problems with simplicity and elegance. With years of combined 
+  experience in development, design, and project management, our team is equipped to tackle even the toughest challenges head-on.
 faqItem:
-  - question: What is a dog?
+  - question: Andrew Meiling
     paragraphs:
       - Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
       - Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
     dataTarget: One
-    show: show
+    show: 
     buttons:
       - text: Email button
         link: mailto:hello@example.com
       - text: Link button
         link: https://github.com/steady-bytes/theme
 
-  - question: What is a cat?
+  - question: Jack Kawell
     paragraphs:
       - Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
       - Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
     dataTarget: Two
-    show:
-
-  - question: What is a horse?
-    paragraphs:
-      - Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
-      - Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
-    dataTarget: Three
-    show:
-    buttons:
-      - text: Another link
-        link: https://github.com/steady-bytes/theme
+    show: 

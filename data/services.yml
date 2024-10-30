@@ -25,11 +25,10 @@ services:
     title: Full-stack Development
     description: |
       Front to back we can help move your idea forward. We have a battle tested process
-      to get your idea in the customers hands quickly across the entire software stack.
-
+      to get your idea in your customers' hands quickly across the entire software stack.
 
   - icon:
-    title: Web applications and general web development
+    title: Web Applications
     description: |
       Whatever your idea we can bring it to market. Sometimes simple is better. We can
       build static websites, simple web apps, and straight-foward APIs.
