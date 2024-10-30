@@ -1,9 +1,9 @@
 ---
 enable: true
-title: Get To Know Us 
+title: Who We Are
 description: >
-  We're not just another software company - we're a collaborative crew of innovators who thrive on solving complex problems with simplicity and elegance. With years of combined 
-  experience in development, design, and project management, our team is equipped to tackle even the toughest challenges head-on.
+  We're not just another software company - we're a collaborative team of innovators who thrive on solving complex problems with simplicity and elegance.
+  With over a decade of combined experience in development, design, and project management, our team is equipped to tackle even the toughest challenges head-on.
 faqItem:
   - question: Andrew Meiling
     paragraphs:
