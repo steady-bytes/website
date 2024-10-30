@@ -19,7 +19,10 @@ faqItem:
 
   - question: Jack Kawell
     paragraphs:
-      - Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
-      - Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
+      - Jack started off in software working on robotics and human interaction systems at the University of Colorado Boulder where he earned his Masters in Computer Science. He transitioned into cloud software development and has worked at various software companies both building and maintaining fault-tolerant, scalable distributed systems.
+      - Jack has a successful history of creating powerful internal development platforms that increase engineering velocity and is passionate about improving the developer experience. He has also worked in both SRE and DevOps roles where he lead teams that dramatically improved application reliability at companies during massive scale-up.
     dataTarget: Two
-    show: 
+    show:
+    buttons:
+      - text: More about Jack
+        link: https://jack.kawell.us
