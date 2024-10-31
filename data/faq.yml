@@ -7,15 +7,15 @@ description: >
 faqItem:
   - question: Andrew Meiling
     paragraphs:
-      - Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
-      - Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
+      - For Andrew building "things" is one of his favorite pass times. Enjoying everything about understanding the customer, finding the need, and building the product. He started his career in market research learning how consumers shop'ed for new products online. Then transitioned to the cybersecurity industry building desktop applications, web services to manage cloud infrastructure, and a tool for scenario design, and deployment.
+      - This is when Andrew grew curious about distributed systems. His favorite motto is 'Learn by doing' and that's when 'Draft' was born. It's an amalgam of lessons learned, and crazy ideas to create a framework, and tool kit for building systems he would be proud to put his name on. 
     dataTarget: One
     show: 
     buttons:
       - text: Email button
-        link: mailto:hello@example.com
+        link: mailto:meilingandrew@gmail.com
       - text: Link button
-        link: https://github.com/steady-bytes/theme
+        link: https://bit.ly/Ameiling
 
   - question: Jack Kawell
     paragraphs:
