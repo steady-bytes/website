@@ -30,7 +30,7 @@ services:
   - icon:
     title: Web Applications
     description: |
-      Whatever your idea we can bring it to market. Sometimes simple is better. We can
+      Whatever your idea, we can bring it to market. Sometimes simple is better. We can
       build static websites, simple web apps, and straight-foward APIs.
 
   - icon:

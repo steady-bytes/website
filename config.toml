@@ -14,11 +14,11 @@ theme = "steady-bytes"
     url = "#service"
     weight = 2
 [[menu.main]]
-    name = "Features"
+    name = "Projects"
     url = "#feature"
     weight = 3
 [[menu.main]]
-    name = "FAQ"
+    name = "Who We Are"
     url = "#faq"
     weight = 4
 [[menu.main]]
@@ -49,7 +49,7 @@ theme = "steady-bytes"
 enableAddress = false
 address = ""
 enableEmail = true
-email = "hello@steady-bytes.io"
+email = "hello@steady-bytes.com"
 enablePhone = false
 phone = ""
 
@@ -70,7 +70,7 @@ logo = "images/logo.png"
 # Footer
 footerTitle = "Keep up to date"
 copyright1 = "All rights reserved"
-copyright2 = "Copyright ©  <a href=\"https://steady-bytes.io/\" target=\"_blank\">Steady Bytes </a> {year}"
+copyright2 = "Copyright ©  <a href=\"https://steady-bytes.com/\" target=\"_blank\">Steady Bytes </a> {year}"
 
 # Contact
-email = "hello@steady-bytes.io"
+email = "hello@steady-bytes.com"

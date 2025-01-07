@@ -7,14 +7,12 @@ description: >
 faqItem:
   - question: Andrew Meiling
     paragraphs:
-      - For Andrew building "things" is one of his favorite pass times. Enjoying everything about understanding the customer, finding the need, and building the product. He started his career in market research learning how consumers shop'ed for new products online. Then transitioned to the cybersecurity industry building desktop applications, web services to manage cloud infrastructure, and a tool for scenario design, and deployment.
-      - This is when Andrew grew curious about distributed systems. His favorite motto is 'Learn by doing' and that's when 'Draft' was born. It's an amalgam of lessons learned, and crazy ideas to create a framework, and tool kit for building systems he would be proud to put his name on. 
+      - For Andrew building things is both his career and his favorite hobby. He enjoys the entire process of building products from understanding the customer and identifying the need to actually creating the software. He started his career in market research learning how consumers' shop for new products online. He then transitioned to the cybersecurity industry where he built everything from desktop applications to web services for managing cloud infrastructure.
+      - Andrew's current work revolves around distributed system design. He has a proven track record of buidling scalable distributed systems both from scratch and as transitions from legacy monoliths.
     dataTarget: One
-    show: 
+    show: show
     buttons:
-      - text: Email button
-        link: mailto:meilingandrew@gmail.com
-      - text: Link button
+      - text: More about Andrew
         link: https://bit.ly/Ameiling
 
   - question: Jack Kawell
