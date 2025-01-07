@@ -62,6 +62,10 @@ twitter = "#"
 enableGithub = true
 github = "https://github.com/steady-bytes"
 
+[params.analytics]
+plausibleDomain = "steady-bytes.com"
+plausibleSrc = "https://plausible.steady-bytes.com/js/script.js"
+
 [params]
 
 # Header
