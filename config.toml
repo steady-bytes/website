@@ -1,5 +1,5 @@
 # MAIN base
-baseURL = "https://steady-bytes.io/"
+baseURL = "https://steady-bytes.com/"
 languageCode = "en-us"
 title = "Steady Bytes"
 theme = "steady-bytes"
