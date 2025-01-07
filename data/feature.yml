@@ -1,29 +1,34 @@
 ---
 enable: true
+title: Our Projects
 features:
-  - name: feature1
+  - name: Home-cloud
     position: right
-    title: Feature 1
-    image: images/feature/feature-illustration-one.svg
+    title: Home Cloud
+    image:
+      src: images/feature/home-cloud.png
     paragraphs:
       - text: >
-          You can add as many features as you wish and can have them display the image on the right or left.
+          A self-hostable, consumer platform designed to help people reclaim security and privacy over their digital lives.
       - text: >
-          You can have multiple paragraphs per feature and even add buttons like the one below.
+          Home Cloud solves the complexity problem of hosting your own services by packaging all you need into one device that is simple and intuitive to use.
     button:
       enabled: true
-      text: Keep Reading
-      link: "#feature2"
-  - name: feature2
+      text: Learn More
+      link: https://home-cloud.io/
+
+  - name: Draft
     position: left
-    title: Feature 2
-    image: images/feature/feature-illustration-two.svg
+    title: Draft
+    image:
+      src: images/feature/draft.png
     paragraphs:
       - text: >
-          You can add checklist item lists to these as well.
+          An all-in-one toolkit for building realtime, distributed systems.
       - text: >
-          Example list:
-    checkItems:
-      - text: List item 1
-      - text: List item 2
-      - text: List item 3
+          Draft is a solid, battle-tested foundation used to build all kinds of systems.
+          It is built as a "startup in a box" framework which can scale from the smallest web app all the way up to the largest multi-tenant distributed cloud.
+    button:
+      enabled: true
+      text: Learn More
+      link: https://github.com/steady-bytes/draft/

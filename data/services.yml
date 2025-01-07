@@ -1,17 +1,40 @@
 #  icons can be found on https://themify.me/themify-icons
 ---
 enable: true
-title: Display icon cards for quick info
+title: What we do
 services:
-  - icon: ti-flag
-    title: Icons
-    description: The icon element is the place to show quick bits of info with a corresponding icon.
+  - icon:
+    title: Micro-service Architecture
+    description: |
+      We have over a decade of experience building scalable, service-oriented systems.
+      We can help your team convert a monolith to a service-oriented architecture or improve existing systems.
 
-  - icon: ti-comment
-    title: Note
-    description: These could be quick notes or services your business offers.
+  - icon:
+    title: Event-driven Architecture
+    description: |
+      We've built multiple high-throughput, production deployed event systems from scratch.
+      We can transition unreliable, synchronous systems to fast, reliable event-driven designs.
 
-  - icon: ti-direction-alt
-    title: Options
-    description: Really you can do whatever you'd like with it.
+  - icon:
+    title: Distributed System Design
+    description: |
+      Distributed systems power every product we've built. We specialize in creating
+      excellent customer and developer experiences that are scalable and fault tolerant.
 
+  - icon:
+    title: Full-stack Development
+    description: |
+      Front to back we can help move your idea forward. We have a battle tested process
+      to get your idea in your customers' hands quickly across the entire software stack.
+
+  - icon:
+    title: Web Applications
+    description: |
+      Whatever your idea, we can bring it to market. Sometimes simple is better. We can
+      build static websites, simple web apps, and straight-foward APIs.
+
+  - icon:
+    title: Cloud Native Infrastructure
+    description: |
+      We've built production systems on all major public clouds (AWS, GCP, Azure) as well as on-prem.
+      We specialize in Kubernetes orchestration but are confortable with any deployment environment.

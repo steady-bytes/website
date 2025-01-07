@@ -1,34 +1,26 @@
 ---
 enable: true
-title: Frequently asked questions
+title: Who We Are
 description: >
-  An FAQ element with the ability to add buttons alongside text answers.
+  We're not just another software company - we're a collaborative team of innovators who thrive on solving complex problems with simplicity and elegance.
+  With over a decade of combined experience in development, design, and project management, our team is equipped to tackle even the toughest challenges head-on.
 faqItem:
-  - question: What is a dog?
+  - question: Andrew Meiling
     paragraphs:
-      - Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
-      - Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
+      - For Andrew building things is both his career and his favorite hobby. He enjoys the entire process of building products from understanding the customer and identifying the need to actually creating the software. He started his career in market research learning how consumers' shop for new products online. He then transitioned to the cybersecurity industry where he built everything from desktop applications to web services for managing cloud infrastructure.
+      - Andrew's current work revolves around distributed system design. He has a proven track record of buidling scalable distributed systems both from scratch and as transitions from legacy monoliths.
     dataTarget: One
     show: show
     buttons:
-      - text: Email button
-        link: mailto:hello@example.com
-      - text: Link button
-        link: https://github.com/steady-bytes/theme
+      - text: More about Andrew
+        link: https://bit.ly/Ameiling
 
-  - question: What is a cat?
+  - question: Jack Kawell
     paragraphs:
-      - Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
-      - Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
+      - Jack started off in software working on robotics and human interaction systems at the University of Colorado Boulder where he earned his Masters in Computer Science. He transitioned into cloud software development and has worked at various software companies both building and maintaining fault-tolerant, scalable distributed systems.
+      - Jack has a successful history of creating powerful internal development platforms that increase engineering velocity and is passionate about improving the developer experience. He has also worked in both SRE and DevOps roles where he lead teams that dramatically improved application reliability at companies during massive scale-up.
     dataTarget: Two
     show:
-
-  - question: What is a horse?
-    paragraphs:
-      - Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
-      - Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
-    dataTarget: Three
-    show:
     buttons:
-      - text: Another link
-        link: https://github.com/steady-bytes/theme
+      - text: More about Jack
+        link: https://jack.kawell.us
