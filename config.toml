@@ -66,6 +66,10 @@ github = "https://github.com/steady-bytes"
 plausibleDomain = "steady-bytes.com"
 plausibleSrc = "https://plausible.steady-bytes.com/js/script.js"
 
+# Mastodon
+[params.mastodon]
+accounts = [ "https://mastodon.world/@jgkawell" ]
+
 [params]
 
 # Header
