@@ -1,10 +1,14 @@
 ---
-title: "API Gateways"
+title: 'API Gateways'
 date: 2025-01-29
-featureImage: images/blog/blog-post-1.jpg
+featureImage: images/undraw/undraw_real-time-analytics.svg
 author: Andrew Meiling
 authorThumb: images/authors/andrew.jpg
+description: >
+  Let's discuss why API gateways are important and how we're building the functionality into Draft!
 ---
+
+<img src="/images/undraw/undraw_real-time-analytics.svg" style="width: 75%;" />
 
 # Understanding API Gateways: A Comprehensive Guide
 
@@ -25,22 +29,27 @@ Now that we have a common understanding of different routing components in a cli
 ### Key Functions of an API Gateway
 
 1. **Request Routing**:
+
    - Determines which backend service receives each request based on predefined routing policies.
 
 2. **Load Balancing & High Availability**:
+
    - Distributes traffic across multiple backend services to prevent overloading any single point of failure.
    - Ensures high availability by automatically redirecting requests during outages when necessary.
 
 3. **Security Management**:
+
    - Implements network encryption (e.g. HTTPS, TLS) to protect data in transit.
    - Manages authentication and authorization, ensuring only authorized users can access specific resources.
    - Supports security configurations like OAuth 2.0, OpenID Connect, or SSO.
 
 4. **Quality of Service (QoS)**:
+
    - Prioritizes traffic based on request type (e.g. handling read operations before writes during peak hours)
    - Implements features like throttling and rate limiting to manage traffic efficiently.
 
 5. **Integration & Orchestration**:
+
    - Acts as an entrypoint for third-party integrations, simplifying API access across various platforms.
 
 6. **Monitoring & Logging**:
