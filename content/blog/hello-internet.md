@@ -2,6 +2,7 @@
 title: 'Hello Internet'
 date: 2025-01-15
 featureImage: images/undraw/undraw_hello.svg
+ogImage: images/undraw/undraw_hello.png
 author: Andrew Meiling
 authorThumb: images/authors/andrew.jpg
 description: >

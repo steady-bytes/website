@@ -2,6 +2,7 @@
 title: 'API Gateways'
 date: 2025-01-29
 featureImage: images/undraw/undraw_real-time-analytics.svg
+ogImage: images/undraw/undraw_real-time-analytics.png
 author: Andrew Meiling
 authorThumb: images/authors/andrew.jpg
 description: >
