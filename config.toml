@@ -44,6 +44,10 @@ theme = "steady-bytes"
     url = "/contact"
     weight = 4
 
+# Enable inline HTML on pages
+[markup.goldmark.renderer]
+unsafe = true
+
 # Footer Contact Info
 [params.info]
 enableAddress = false

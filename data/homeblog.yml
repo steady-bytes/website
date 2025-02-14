@@ -2,3 +2,4 @@
 enable: true
 title: Blog
 blogButtonText: See all posts
+countToShow: 2

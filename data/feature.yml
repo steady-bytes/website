@@ -6,7 +6,7 @@ features:
     position: right
     title: Home Cloud
     image:
-      src: images/feature/home-cloud.png
+      src: images/undraw/undraw_secure-server.svg
     paragraphs:
       - text: >
           A self-hostable, consumer platform designed to help people reclaim security and privacy over their digital lives.
@@ -21,7 +21,7 @@ features:
     position: left
     title: Draft
     image:
-      src: images/feature/draft.png
+      src: images/undraw/undraw_software-engineer.svg
     paragraphs:
       - text: >
           An all-in-one toolkit for building realtime, distributed systems.
@@ -31,4 +31,4 @@ features:
     button:
       enabled: true
       text: Learn More
-      link: https://github.com/steady-bytes/draft/
+      link: https://draft.steady-bytes.com
