@@ -1,4 +1,4 @@
 ---
 title: "Blog"
-description: ""
+description: "Official blog of Steady Bytes"
 ---

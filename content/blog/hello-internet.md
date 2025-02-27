@@ -1,10 +1,15 @@
 ---
-title: "Hello Internet"
+title: 'Hello Internet'
 date: 2025-01-15
-featureImage: images/blog/blog-post-1.jpg
+featureImage: images/undraw/undraw_hello.svg
+ogImage: images/undraw/undraw_hello.png
 author: Andrew Meiling
 authorThumb: images/authors/andrew.jpg
+description: >
+  The playbook is simple, build free open source software (and eventually hardware) that other people can benefit from. Let's get started...
 ---
+
+<img src="/images/undraw/undraw_hello.svg" style="width: 75%;" />
 
 # Hello Internet
 
@@ -26,4 +31,4 @@ If you are interested in anything we are doing please [reach out](/contact) and 
 
 Steady Bytes co-founders,
 
-*Andrew Meiling & Jack Kawell*
+_Andrew Meiling & Jack Kawell_

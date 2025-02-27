@@ -24,7 +24,7 @@
       {{ $menu := .Site.Menus.main }}
       <ul class="navbar-nav ml-auto">
       {{ range $index, $element := $menu }}
-        <li class="nav-item">
+        <li class="nav-item" data-toggle="collapse" data-target=".navbar-collapse.show">
           <a href="{{ $.Site.BaseURL }}{{ .URL }}" class="nav-link {{ if $.IsHome }}scroll{{ end }}">{{ .Name }}</a>
         </li>
       {{ end }}
